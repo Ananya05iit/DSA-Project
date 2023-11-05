@@ -12,7 +12,7 @@ Choice 3: KMP algorithm
 
 Choice 4: Finite Automata algorithm
 
-If you choose choice 2, then a smaller text file will be opened since the time complexity of trie is O(m^2)
+If you choose choice 2, then a smaller text file will be opened since the space complexity of trie is O(m^2)
 For other choices, the larger text file opens
 
 The next input will be the string of the pattern to be searched.
