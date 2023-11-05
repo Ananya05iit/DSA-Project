@@ -3,9 +3,13 @@ Searching for patterns in a given text file using trie and suffix tree data stru
 
 To run this code 
 There are choices in the main function using switch cases to ask the user if he/she wants to run the pattern searching algorithm using trie, suffix tree, KMP or finite automata algorithm.
+
 Choice 1: Suffix Tree Data Structure
+
 Choice 2: Trie Data Structure
+
 Choice 3: KMP algorithm
+
 Choice 4: Finite Automata algorithm
 
 If you choose choice 2, then a smaller text file will be opened since the time complexity of trie is O(m^2)
