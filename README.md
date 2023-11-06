@@ -1,4 +1,5 @@
-# DSA-Project
+# DSA-Project 
+
 Searching for patterns in a given text file using trie and suffix tree data structures and implementing KMP and finite automata algorithms
 
 For tries a smaller text file will be opened since the space complexity of trie is O(m^2)
